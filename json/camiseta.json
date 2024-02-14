@@ -1,0 +1,59 @@
+[
+    {
+        "name":"Flamengo",
+        "price": "500",
+        "img": "./img/flamengo1.png"
+    },{
+        "name":"Gremio",
+        "price": "500",
+        "img": "./img/gremio1.png"
+    }, {
+        "name":"palmeiras",
+        "price": "500",
+        "img": "./img/palmeiras1.png"
+    }, {
+        "name":"Atletico Mineiro",
+        "price": "500",
+        "img": "./img/atleticoMineiro1.png"
+    }, {
+        "name":"Atletico Paranaense",
+        "price": "500",
+        "img": "./img/atleticoParanaense1.png"
+    }, {
+        "name":"Corinthins",
+        "price": "500",
+        "img": "./img/corinthians1.png"
+    }, {
+        "name":"Fortaleza",
+        "price": "500",
+        "img": "./img/fortaleza1.png"
+    }, {
+        "name":"Botafogo",
+        "price": "500",
+        "img": "./img/botafogo1.png"
+    }, {
+        "name":"Bragantino",
+        "price": "500",
+        "img": "./img/bragantino1.png"
+    }, {
+        "name":"Internacional",
+        "price": "500",
+        "img": "./img/internacional1.png"
+    },{
+        "name": "Santos",
+        "price": "500",
+        "img": "./img/santos1.png"
+    },{
+        "name": "Fluminense",
+        "price": "500",
+        "img": "./img/fluminense1.png"
+    },{
+        "name": "Cuiaba",
+        "price": "500",
+        "img": "./img/cuiaba1.png"
+    },{
+        "name": "Cruzeiro",
+        "price": "500",
+        "img": "./img/cruzeiro1.png"
+    }
+]
